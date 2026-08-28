@@ -2,7 +2,7 @@
 
 Welcome to my **Java Programming Repository**! This repository contains my Java practice projects, assignments, and Object-Oriented Programming (OOP) exercises completed during my Computer Science and Engineering studies.
 
-The goal of this repository is to strengthen my Java programming skills by building small projects and solving programming problems.
+The goal of this repository is to strengthen my Java programming skills by building small projects and solving programming pr
 
 ---
 
